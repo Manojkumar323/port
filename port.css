@@ -238,7 +238,7 @@ nav ul li a:hover::after {
 .skills ul li:hover {
     border: 1px solid #fbc531;
     color: white;
-    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    box-shadow: rgba(221, 240, 46, 0.4) 5px 5px, rgba(200, 239, 4, 0.3) 10px 10px, rgba(226, 219, 18, 0.268) 15px 15px, rgba(234, 227, 17, 0.1) 20px 20px, rgba(227, 227, 6, 0.05) 25px 25px;
     font-size: 20px;
 }
 
@@ -363,7 +363,7 @@ nav ul li a:hover::after {
 }
 
 .own .prj:hover {
-    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    box-shadow: rgba(221, 240, 46, 0.4) 5px 5px, rgba(200, 239, 4, 0.3) 10px 10px, rgba(226, 219, 18, 0.268) 15px 15px, rgba(234, 227, 17, 0.1) 20px 20px, rgba(227, 227, 6, 0.05) 25px 25px;
 }
 
 .nav-toggle {
