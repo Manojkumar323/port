@@ -93,6 +93,7 @@ nav {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+
 nav ul li {
     display: inline-block;
     padding: 10px 20px;
@@ -345,6 +346,7 @@ nav ul li a:hover::after {
 
 }
 
+
 .own .prj img:hover {
     transform: translateY(-10px);
     /* transform: translateX(-30px); */
@@ -379,6 +381,12 @@ nav ul li a:hover::after {
     bottom: 0;
 }
 
+
+.box4 img{
+    height: 100px;
+    width: 100px;
+
+}
 
 /* 
 contact */
